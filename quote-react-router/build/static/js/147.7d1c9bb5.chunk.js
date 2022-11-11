@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpractice_project_react_router=self.webpackChunkpractice_project_react_router||[]).push([[147],{147:function(r,e,t){t.r(e),t.d(e,{default:function(){return u}});var c="LoadingSpinner_spinner__rqWMN",n=t(184),u=function(){return(0,n.jsx)("div",{className:c})}}}]);
+//# sourceMappingURL=147.7d1c9bb5.chunk.js.map
